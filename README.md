@@ -38,13 +38,13 @@
 ### 图片展示
 
 #### 1. **桑基图**  
-(./sankey.png)
+![1](./sankey.png)
 
 #### 2. **shap值特征分析**  
-(./shap_analysis_dashboard.png)
+![2](./shap_analysis_dashboard.png)
 
 #### 3. **情感类型分布图**  
-(./情感比重分析环形图.png)
+![3](./情感比重分析环形图.png)
 
 ---
 
